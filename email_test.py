@@ -9,9 +9,9 @@ import os
 
 
 # mail config
-email_address = "test_support_email@avery-design.com"
-imap_server = "mail.avery-design.com" 
-password = "xXwdamiInMn?"
+email_address = ""
+imap_server = "" 
+password = ""
 
 # Connect to the IMAP server
 imap = imaplib.IMAP4_SSL(imap_server)

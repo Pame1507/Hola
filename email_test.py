@@ -97,7 +97,7 @@ def extract_base64_content(file_path):
         return decoded_content, first_five_lines
 
 # Directory where your .txt files are stored
-txt_files_directory = "/home/pamgui02/Downloads"
+txt_files_directory = "/home/Downloads"
 
 # Initialize the poni variable
 poni = None
